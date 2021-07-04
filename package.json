@@ -1,0 +1,29 @@
+{
+  "name": "portfolio-starter",
+  "version": "1.0.0",
+  "description": "A starter for my portfolio site.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpk576/portfolio-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpk576/portfolio-starter/issues"
+  },
+  "homepage": "https://github.com/mpk576/portfolio-starter#readme",
+  "dependencies": {
+    "next": "^11.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.13",
+    "typescript": "^4.3.5"
+  }
+}
